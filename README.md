@@ -1,8 +1,8 @@
-🗓️ Monthly Employee Attendance Dashboard
+**🗓️ Monthly Employee Attendance Dashboard**
 
 An interactive Power BI dashboard template to track and analyze employee attendance on a monthly basis. Ideal for HR teams and managers looking to monitor presence, absences, leaves, and punctuality across departments.
 
-📌 Features
+📌 **Features**
 📊 KPI Cards – Total Working Days, Days Present, Absent, Leaves, Late Arrivals
 
 📅 Calendar View – Visual daily attendance map
@@ -15,7 +15,7 @@ An interactive Power BI dashboard template to track and analyze employee attenda
 
 📋 Employee Detail Table – Individual-level attendance data
 
-🧰 Built With
+🧰 **Built With**
 -Power BI Desktop
 
 -Power Query Editor – Data transformation
@@ -26,14 +26,14 @@ An interactive Power BI dashboard template to track and analyze employee attenda
 
 -File Type – .pbit (Power BI Template)
 
-🗃️ Dataset Structure 
+🗃️ **Dataset Structure **
 1. Employee ID, Employee Name, Department
 
 2. Date, Status (Present, Absent, Leave, Late)
 
 3. Check-In Time, Check-Out Time, Hours Worked
 
-🎯 Use Case
+🎯 **Use Case**
 --Designed to help organizations:
 
 --Identify absenteeism trends
@@ -44,4 +44,4 @@ An interactive Power BI dashboard template to track and analyze employee attenda
 
 --Support HR decision-making with actionable insights
 
-![Alt Text]
+![Alt Text](https://github.com/bhartisinghal12/Monthly-Employee-Attendance/blob/main/Attendance%20Dashboard.PNG)
