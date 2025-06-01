@@ -26,7 +26,7 @@ An interactive Power BI dashboard template to track and analyze employee attenda
 
 -File Type – .pbit (Power BI Template)
 
-🗃️ **Dataset Structure **
+🗃️ **Dataset Structure**
 1. Employee ID, Employee Name, Department
 
 2. Date, Status (Present, Absent, Leave, Late)
